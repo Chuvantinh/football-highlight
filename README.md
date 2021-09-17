@@ -1,5 +1,7 @@
 # vueapp
 
+### Project was deploy at 
+https://zealous-shannon-64701c.netlify.app/#/highlight
 ## Project setup
 ```
 npm install
