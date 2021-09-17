@@ -42,7 +42,7 @@ export default {
     axios.get("https://www.scorebat.com/video-api/v1/")
     .then(res => {
       this.matchs = res.data;
-      console.log(res);
+      // console.log(res);
     });
   }
 
